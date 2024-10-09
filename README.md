@@ -25,6 +25,8 @@ Step 7:
  ```
 ## PROGRAM : -  
 ```
+NAME:VESLIN ANISH A
+REGNO:212223240175
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <time.h> 
